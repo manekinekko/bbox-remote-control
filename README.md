@@ -6,7 +6,10 @@ Work in progress...
 
 ## Installation
 
-First, you need to fire up the node instance (used as a reverse proxy, due to CORS limitation):
+First, install all npm deps: 
+```$ npm install```
+
+You need to fire up the node instance (used as a reverse proxy, due to CORS limitation):
 ```$ node node.js```
 
 Then, run the web app (in dev mode):
