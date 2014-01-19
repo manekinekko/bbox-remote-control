@@ -4,6 +4,14 @@ This is a demo app that allows uPnP access to Bbox STB (french ISP), through a w
 
 Work in progress...
 
+## Installation
+
+1. Run the node script (used as a reverse proxy, due to CORS limitations) :
+``` node node.js
+
+2. Run the web app (in dev mode):
+``` grunt server
+
 ## License
 
 Copyright (c) 2014, Wassim Chegham
