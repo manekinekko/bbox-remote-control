@@ -1,16 +1,16 @@
 # Bbox Remote Control
 
-This is a demo app that allows uPnP access to Bbox STB (french ISP), through a web app (right from your browser).
+This is a demo web app that allows uPnP access to Bbox Sensation STB (provided by Bouygues Telecom, a french ISP), through a web app (right from your browser).
 
 Work in progress...
 
 ## Installation
 
-1. Run the node script (used as a reverse proxy, due to CORS limitations) :
-``` node node.js
+First, you need to fire up the node instance (used as a reverse proxy, due to CORS limitation):
+```$ node node.js```
 
-2. Run the web app (in dev mode):
-``` grunt server
+Then, run the web app (in dev mode):
+```$ grunt server```
 
 ## License
 
