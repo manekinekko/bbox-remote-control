@@ -1,4 +1,4 @@
-# Bbox Remote Control
+# Bbox Remote Control [UNMAINTAINED]
 
 This is a demo web app that allows uPnP access to Bbox Sensation STB (provided by Bouygues Telecom, a french ISP), through a web app (right from your browser).
 
